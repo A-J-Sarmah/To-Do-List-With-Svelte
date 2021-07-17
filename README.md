@@ -1,8 +1,10 @@
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+*Go [here](https://to-do-list-with-svelte.netlify.app) to check the project.*
+
 ---
 
-# svelte app
+# To DO List With svelte 
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
